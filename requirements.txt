@@ -1,0 +1,3 @@
+# Only required for live mode. Offline mode and core tests use the Python standard library.
+openai==3.46.0
+openai-agents==0.24.0

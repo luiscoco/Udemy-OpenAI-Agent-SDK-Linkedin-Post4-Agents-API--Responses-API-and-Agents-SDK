@@ -1,0 +1,9 @@
+{
+  "company": "Orbit Learning Supplies",
+  "period": "October 2026",
+  "currency": "EUR",
+  "products": [
+    {"name": "Course kits", "revenue": "12000.00", "cost": "7200.00"},
+    {"name": "Practice workbooks", "revenue": "8000.00", "cost": "4000.00"}
+  ]
+}
